@@ -31,7 +31,7 @@ For stardock groupy application tabs, begin with two applications that you alrea
 Choose tab accents that identify a project or activity, and keep the color scheme consistent across related groups.
 Try the available tab designs with maximized windows as well as ordinary floating windows.
 
-![Groupy 2 combining a project editor and a reference application with distinct tab accents](dosc/photo1.png)
+![Groupy 2 combining a project editor and a reference application with distinct tab accents](docs/photo1.png)
 
 Appearance involves more than drawing a colored rectangle above a window.
 The supplied reference layer separates composition, theme information, and application icon handling:
@@ -107,12 +107,10 @@ A practical keyboard review should cover three separate actions:
 
 ## Screenshots
 
-![Groupy 2 grouping several Office document windows under one tab bar](dosc/photo2.jpg)
+![Groupy 2 grouping several Office document windows under one tab bar](docs/photo2.jpg)
 
 Show enough of the application title to distinguish the document from its surrounding group.
 A useful Office screenshot includes recognizable document names and a clearly selected tab.
-
-![Groupy 2 saved application Grouping ready to launch from the Windows taskbar](FOTO)
 
 For a saved Grouping, show the taskbar entry separately from the application's internal navigation.
 Use a small working set so that each window's role remains visible.
